@@ -6,7 +6,7 @@
 
 ### 프로젝트
 * 언리얼 블루프린트를 사용한 CRPG 카메라 및 전투 시스템 프로토타입 [[🔗I Wanna Play TRPG]](https://github.com/yoonsangmin/IWannaPlayTRPG)
-* 윈도우 콘솔에서 작동하는 대규모 유닛 A* 데모 [[🔗AStarCraft]](https://github.com/yoonsangmin/AlgorithmPractice)
+* 윈도우 콘솔에서 작동하는 다중 유닛 A* 데모 [[🔗AStarCraft]](https://github.com/yoonsangmin/AlgorithmPractice)
 * 유니코드를 적용한 윈도우 콘솔 엔진과 크립트 오브 더 네크로댄서를 모방한 콘솔 게임 프로젝트 [[🔗Console Rythme Rougue]](https://github.com/yoonsangmin/ConsoleRythmeRogue)
 
 ### Skills
